@@ -1,0 +1,11 @@
+## key안에는 NEIS에서 발급받은 API키가 필요합니다!
+## https://open.neis.go.kr/portal 에 들어가셔서, 계정을 생성하신후 인증키를 발급하여 이곳에 넣어주시기 바랍니다.
+## school_nm에는 학교명이 들어가야하며, grade, class에는 각각 학년과 반이 들어가야합니다.
+
+==== config.json ====
+{
+    "key": "",
+    "school_nm": "",
+    "grade":1,
+    "class":1
+}
